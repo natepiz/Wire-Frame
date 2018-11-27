@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    background-color:#630670;
+    margin-bottom:100px;  
+}
+img{
+    width:380px;
+    background-color:black;
+    
+}
+.div{
+    background-color:yellow;
+    border-radius:50%;
+}
+button:hover{
+    color:red;
+}
+.flex{
+    display:flex;
+    color:skyblue;
+    justify-content: space-around;
+    
+}
+.vote img{
+    width:50px;
+}
+.for img{
+    width:70px;
+}
+.him img{
+    width:100px;
+}
+
